@@ -1,4 +1,4 @@
-Frontend Technologies: HTML, CSS, JavaScript
+Frontend Technologies: HTML, CSS, JavaScript       
 Backend Technology: Python
 
 Project Description:
